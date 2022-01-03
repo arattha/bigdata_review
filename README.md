@@ -23,7 +23,7 @@
 
 ### 개발 환경
 
-![image](/uploads/9a3a737334ccec85e09f063fe3b5570f/image.png)
+![image](/SUB3/아키텍쳐.png)
 
 ## 기술 스택
 
